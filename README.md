@@ -1,5 +1,5 @@
 # Direct Feed Parsers for NASDAQ, BATS, CTA, and UTP
-###### Zizhang Hu @ Domeyard LP, winter 2016
+###### Z Hu @ Domeyard LP, winter 2016
 
 ## Introduction
 This project is done by the author in Winter 2016. [Domeyard](http://www.domeyard.com/) is an awesome Boston based trading firm where the author did research internship sponsored by MIT Sloan.
