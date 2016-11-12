@@ -1,7 +1,4 @@
 # BAT Parser
-###### Kael @ Domeyard. 2016 Winter.
-zizhang _dot_ hu _at_ sloan _dot_ mit _dot_ edu
-
 
 ## Things need to notice
 
