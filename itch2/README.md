@@ -1,6 +1,4 @@
 # ITCH 2
-###### Kael @ Domeyard. 2016 Winter.
-zizhang _dot_ hu _at_ sloan _dot_ mit _dot_ edu
 
 ## Introduction
 This is a better project to build orderbook, analyze anomalies, and visualize data than the previous version of itch. 
