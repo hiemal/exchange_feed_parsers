@@ -1,6 +1,4 @@
 # CTA Parser
-###### Kael Hu @ Domeyard, winter 2016
-zizhang _dot_ hu _at_ sloan _dot_ mit _dot_ edu
 
 ## Tech Specs
 For CQS, the parser is based on the elder version of CQS output [spec](https://www.ctaplan.com/publicdocs/ctaplan/notifications/trader-update/cqs%20output%20spec%20v%2059a_042215.pdf) in order to research on historical data on 20150318.
